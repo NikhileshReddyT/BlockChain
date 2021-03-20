@@ -1,4 +1,4 @@
-# HW1: Building Dapp
+# Building Dapp
 
 ## February 12, 2020
 
