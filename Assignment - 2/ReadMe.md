@@ -7,8 +7,9 @@
 In this assignment, we conduct some data analysis on Bitcoin transactions.
 We specifically draw on our knowledge of the blockchain structure and deanonymization techniques and use Bitcoin dataset from https://senseable2015-6.mit.edu/bitcoin/
 
-Before getting into this assignment, Review the Bitcoin technical
-guide https://bitcoin.org/en/blockchain-guideandhttps://bitcoin.org/en/transactions-guide to familiarize with Bitcoin transactions. In
+Before getting into this assignment, Review the Bitcoin technical guide:
+
+https://bitcoin.org/en/blockchain-guideandhttps://bitcoin.org/en/transactions-guide to familiarize with Bitcoin transactions. In
 particular, understand the following:
 
 - Structure of the transaction: inputs, outputs, value. Pay attention on how
